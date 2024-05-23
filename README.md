@@ -13,3 +13,7 @@ i <3 coding with:
 - python
 - html
 - css
+
+and more:
+
+![img](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,nodejs,react,html,css,php,git,wordpress,mongodb,blender)

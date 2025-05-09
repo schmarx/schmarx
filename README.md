@@ -3,9 +3,11 @@
 Currently doing postgraduate studies in theoretical physics.  
 Did my undergraduate degree in theoretical physics with a second major in computer science.   
 
+Happiest when working on _**simulations / physics engines / computational physics**_.
+
 i <3 coding with:  
-- java
 - c
+- java
 - javascript
   - vanilla
   - react

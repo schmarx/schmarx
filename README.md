@@ -5,7 +5,7 @@ Did my undergraduate degree in theoretical physics with a second major in comput
 
 Happiest when working on _**simulations / physics engines / computational physics**_.
 
-i <3 coding with:  
+i <3 working with:  
 - c
 - java
 - javascript
